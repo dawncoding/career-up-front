@@ -79,6 +79,7 @@
 
 ![메인페이지 스크롤 인터렉션 압축](https://github.com/dawncoding/career-up-front/assets/79133028/ae4cfd65-fbcc-475d-bd46-d385d59ef5e3)
 
+
 </details>
 
 <details>
