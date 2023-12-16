@@ -77,7 +77,7 @@
 
 ![스크린샷 2023-12-08 오후 7 54 41](https://github.com/Stendhalsynd/career-up-front/assets/96957774/981778ab-9e3d-4a50-be0c-e01237fc5262)
 
-![메인페이지 스크롤 인터렉션 압축](https://github.com/dawncoding/career-up-front/assets/79133028/ae4cfd65-fbcc-475d-bd46-d385d59ef5e3)
+![메인페이지 스크롤 인터렉션 압축본](https://github.com/dawncoding/career-up-front/assets/79133028/e9f1cdd5-314f-4eb8-b7f0-f8a59518ae8b)
 
 
 </details>
