@@ -66,7 +66,7 @@
 
 <details>
 
-<summary>메인페이지</summary>
+메인페이지
 
 
 ![스크린샷 2023-12-08 오후 7 52 45](https://github.com/Stendhalsynd/career-up-front/assets/96957774/8be686eb-99cd-4036-b3f1-d3ad79ad7835)
