@@ -83,69 +83,37 @@
 
 ![메인페이지 스크롤 인터렉션 압축본](https://github.com/dawncoding/career-up-front/assets/79133028/e9f1cdd5-314f-4eb8-b7f0-f8a59518ae8b)
 
-</details>
-
-<details>
-
-<summary>멘토 탐색 페이지</summary>
+#### 멘토 탐색 페이지
 
 ![Dec-08-2023 19-55-28](https://github.com/Stendhalsynd/career-up-front/assets/96957774/a55f333a-d6f0-46e4-a799-eff07e85e7c2)
 
-<details>
-
-<summary>현직자 상세 페이지</summary>
+#### 현직자 상세 페이지
 
 ![스크린샷 2023-12-08 오후 7 56 26](https://github.com/Stendhalsynd/career-up-front/assets/96957774/fdc73d28-8bd9-45f4-bf4a-75aac44deda9)
 
-</details>
-
-<details>
-
-<summary>상담 신청 페이지</summary>
+#### 상담 신청 페이지
 
 ![Dec-08-2023 19-57-44](https://github.com/Stendhalsynd/career-up-front/assets/96957774/3a143a46-85bf-4928-bfcc-d5bcf65917fe)
 
-</details>
-
-<details>
-
-<summary>나의 채팅 페이지</summary>
+#### 나의 채팅 페이지
 
 ![Dec-08-2023 19-58-36](https://github.com/Stendhalsynd/career-up-front/assets/96957774/77f21b69-9e87-4e16-a2f2-3328f2f1fc40)
 
-</details>
-
-<details>
-
-<summary>마이 페이지</summary>
+#### 마이 페이지
 
 ![Dec-09-2023 05-59-44](https://github.com/Stendhalsynd/career-up-front/assets/96957774/964ad67f-69a5-4fd4-8c2d-a4c00d6cf9e7)
 
-</details>
-
-<details>
-
-<summary>로그인 및 회원가입 페이지</summary>
+#### 로그인 및 회원가입 페이지
 
 ![Dec-09-2023 06-00-58](https://github.com/Stendhalsynd/career-up-front/assets/96957774/84bf0dac-30e0-4d52-a41b-bad3f77ba7cb)
 
-</details>
-
-<details>
-
-<summary>헤더 및 메뉴바</summary>
+#### 헤더 및 메뉴바
 
 ![Dec-09-2023 06-02-25](https://github.com/Stendhalsynd/career-up-front/assets/96957774/b476d34d-e950-4b23-896d-ecfd844496f7)
 
-</details>
-
-<details>
-
-<summary>화상회의 ⭐️ </summary>
+#### 화상회의 ⭐️
 
 ![압축된 영상회의](https://github.com/Stendhalsynd/career-up-front/assets/96957774/d83bfb98-8742-4839-8281-b6a5efa38616)
-
-</details>
 
 ## 설치 라이브러리
 
