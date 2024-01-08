@@ -64,8 +64,6 @@
 
 ### 서비스 화면
 
-<details>
-
 메인페이지
 
 
@@ -92,8 +90,6 @@
 <summary>멘토 탐색 페이지</summary>
 
 ![Dec-08-2023 19-55-28](https://github.com/Stendhalsynd/career-up-front/assets/96957774/a55f333a-d6f0-46e4-a799-eff07e85e7c2)
-
-</details>
 
 <details>
 
