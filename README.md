@@ -332,31 +332,18 @@ npm i sweetalert2
 
 ## ERD
 
-<details>
-
-<summary>ERD</summary>
-
 ![ERD](https://github.com/Stendhalsynd/career-up-front/assets/96957774/ba157ad5-0694-4dd2-9140-1b32f44742ba)
 
-</details>
-
 ## API
-
-<details>
-
-<summary>API 명세서</summary>
 
 ![스크린샷 2023-12-09 오전 8 41 01](https://github.com/Stendhalsynd/career-up-front/assets/96957774/f619f011-90b5-49e2-9fc5-2d97f5d04093)
 
 ![스크린샷 2023-12-09 오전 8 41 19](https://github.com/Stendhalsynd/career-up-front/assets/96957774/75a2404c-17b4-4c2d-9d10-3ead235a4632)
 
-</details>
 
 ## 구조 설계
 
-<details>
-
-<summary>초안</summary>
+### 초안
 
 ![스크린샷 2023-12-09 오전 8 42 15](https://github.com/Stendhalsynd/career-up-front/assets/96957774/8c4c156c-ed9b-4e26-9bc9-f4c9566b9c23)
 
@@ -378,19 +365,11 @@ npm i sweetalert2
 
 ![스크린샷 2023-12-09 오전 8 43 32](https://github.com/Stendhalsynd/career-up-front/assets/96957774/f915a031-9d0a-45a1-9386-1d65f80e3052)
 
-</details>
-
 ## FIGMA
-
-<details>
-
-<summary>FIGMA</summary>
 
 ![스크린샷 2023-12-09 오전 8 46 49](https://github.com/Stendhalsynd/career-up-front/assets/96957774/ef4c4da4-b610-408e-8718-f6599f7c1a41)
 
 - [figma 링크](https://www.figma.com/file/8lfhRkMWCfu8cdw2kosBh6/%EC%BB%A4%EB%A6%AC%EC%97%85?type=design&node-id=197%3A7004&mode=design&t=6YSa5QYmSsrkqLeA-1) 
-
-</details>
 
 # 6. 결과물
 
