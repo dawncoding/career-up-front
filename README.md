@@ -5,8 +5,8 @@
 
 ## 배포 주소
 
-- [커리업](https://career-up.live/)
-  - 실제 서비스를 볼 수 있는 주소
+/* - [커리업](https://career-up.live/)
+  - 실제 서비스를 볼 수 있는 주소 */
 - [storybook](https://6560bd731f7f9e471fc4de1d-hikhaqgkfh.chromatic.com/)
   - 프론트엔드 컴포넌트 개발 현황 및 사용법에 대한 storybook 배포 주소
   
