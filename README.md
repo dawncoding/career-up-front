@@ -3,10 +3,15 @@
 
 <img src='https://github.com/Stendhalsynd/career-up-front/assets/96957774/d0bdbf06-01dd-4deb-bd04-ed69cf3dd16a' width='300' >
 
-## 배포 주소
+## 목차
+- [README](#readme)
+  - [메인페이지](#메인페이지)
 
-/* - [커리업](https://career-up.live/)
-  - 실제 서비스를 볼 수 있는 주소 */
+## 배포 주소
+<!-- 
+- [커리업](https://career-up.live/)
+  - 실제 서비스를 볼 수 있는 주소
+  -->
 - [storybook](https://6560bd731f7f9e471fc4de1d-hikhaqgkfh.chromatic.com/)
   - 프론트엔드 컴포넌트 개발 현황 및 사용법에 대한 storybook 배포 주소
   
