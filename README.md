@@ -1,7 +1,5 @@
 # WebRTC 기반 1:1 화상 컨설팅 플랫폼 : 커리업
-> 6인 팀 프로젝트
-
-<img src='https://github.com/Stendhalsynd/career-up-front/assets/96957774/d0bdbf06-01dd-4deb-bd04-ed69cf3dd16a' width='300' >
+<img width="1401" alt="커리업 프로젝트 thumbnail" src="https://github.com/user-attachments/assets/b6eebf90-2535-4de4-8c53-36df68e6665c">
 
 ## 목차
 - [README](#readme)
@@ -27,6 +25,9 @@
 ## 1. 서비스 설명
 
 ### 개요
+<img src='https://github.com/Stendhalsynd/career-up-front/assets/96957774/d0bdbf06-01dd-4deb-bd04-ed69cf3dd16a' width='300' >
+
+> 6인 팀 프로젝트
 
 - 한 줄 소개 : 악화된 취업난으로 채용시장에서 불안감을 호소하는 주니어 개발자들에게 시니어 개발자와의 1:1 화상 컨설팅 서비스를 제공하는 플랫폼
 - 서비스 명 : 커리업(Career Up)
